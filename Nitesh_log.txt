@@ -1,0 +1,37 @@
+for clonning:
+-------------
+ git clone https://github.com/LightHarshit/github_task0.git
+
+
+for creating branch:
+--------------------
+git branch <branch_name>
+
+
+for switching HEAD between branches:
+-------------------------------------
+git checkout <branch_name>
+
+
+for add file to branch:
+-----------------------
+git add <file_name>
+
+
+for commiting file:
+-------------------
+git commit -m '<msg>'
+
+for renaming
+-------------
+git mv <previous name> <new name>
+
+
+for merging braches:
+--------------------
+git merge <branch_name>
+
+
+for pushing:
+------------
+git push --set-upstream origin branch_1
